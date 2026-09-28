@@ -11,6 +11,5 @@ def run():
     for input_dict in input_list:
         print(input_dict.get("input"))
 
-
 if __name__ == "__main__":
     run()
